@@ -2,8 +2,7 @@
 该项目采用的是vue开发，ui没有使用任何框架。完全手写～
 
 ## 使用指导
-- `git pull  项目地址` 到本地
-- `npm i `
+- `npm install `
 - `npm run serve` 便可以开启项目
 
 ## 文件目录树
@@ -65,16 +64,6 @@
 - 使用命令 `vue create miaoyan` 
 - 没有使用默认配置，是手动配置的。配置的`vue-router`,`vuex`,`node-sass`,`eslint`..
 
-## 项目接口文件 
-  | 接口名称 | 请求方式 | 请求示列 |
-  | --- | ---- | ---- |
-  | 正在热映 | get | http://39.97.33.178/api/movieOnInfoList?cityId=10 |
-  | 即将上映 | get | http://39.97.33.178/api/movieComingList?cityId=10 |
-  | 搜索 | get | http://39.97.33.178/api/searchList?cityId=10&kw=a |
-  | 城市 | get | http://39.97.33.178/api/cityList |
-  | 电影详情 | get | http://39.97.33.178/api/detailmovie?movieId=345808 |
-  | 影院 | get | http://39.97.33.178/api/cinemaList?cityId=10 |
-  | 城市定位 | get | http://39.97.33.178/api/getLocation |
 
 ## 技术要点
 - [x] `vue`
@@ -90,24 +79,24 @@
 
 <figure class="third">
 
-<img src="https://github.com/yaogengzhu/maioyan/blob/master/showImage/p1.png?raw=true" width=200 height=400 alt="图1">
-<img src="https://github.com/yaogengzhu/maioyan/blob/master/showImage/p2.png?raw=true" width=200 height=400 alt="图2">
-<img src="https://github.com/yaogengzhu/maioyan/blob/master/showImage/p3.png?raw=true" width=200 height=400 alt="图3">
+<img src="https://github.com/1153676519/HD--Cat-Eye-Movie/blob/master/img/p1.png?raw=true" width=200 height=400 alt="图1">
+<img src="https://github.com/1153676519/HD--Cat-Eye-Movie/blob/master/img/p2.png?raw=true" width=200 height=400 alt="图2">
+<img src="https://github.com/1153676519/HD--Cat-Eye-Movie/blob/master/img/p3.png?raw=true" width=200 height=400 alt="图3">
 
 </figure>
 
 <figure class="third">
 
-<img src="https://github.com/yaogengzhu/maioyan/blob/master/showImage/p4.png?raw=true" width=200 height=400 alt="图4">
-<img src="https://github.com/yaogengzhu/maioyan/blob/master/showImage/p5.png?raw=true" width=200 height=400 alt="图5">
-<img src="https://github.com/yaogengzhu/maioyan/blob/master/showImage/p6.png?raw=true" width=200 height=400 alt="图6">
+<img src="https://github.com/1153676519/HD--Cat-Eye-Movie/blob/master/img/p4.png?raw=true" width=200 height=400 alt="图4">
+<img src="https://github.com/1153676519/HD--Cat-Eye-Movie/blob/master/img/p5.png?raw=true" width=200 height=400 alt="图5">
+<img src="https://github.com/1153676519/HD--Cat-Eye-Movie/blob/master/img/p6.png?raw=true" width=200 height=400 alt="图6">
 
 </figure>
 
 <figure class="two">
 
-<img src="https://github.com/yaogengzhu/maioyan/blob/master/showImage/p7.png?raw=true" width=200 height=400 alt="图7">
-<img src="https://github.com/yaogengzhu/maioyan/blob/master/showImage/p8.png?raw=true" width=200 height=400 alt="图8">
+<img src="https://github.com/1153676519/HD--Cat-Eye-Movie/blob/master/img/p7.png?raw=true" width=200 height=400 alt="图7">
+<img src="https://github.com/1153676519/HD--Cat-Eye-Movie/blob/master/img/p8.png?raw=true" width=200 height=400 alt="图8">
 
 </figure >
 
